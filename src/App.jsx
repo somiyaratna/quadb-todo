@@ -26,17 +26,17 @@ const App = () => {
   return (
     <div className="flex justify-center items-center flex-col">
       <h1 className="text-3xl my-16">Welcome to QuadB To-Do</h1>
-      <form className="w-9/12">
+      <form className="w-9/12 text-center">
         <input
           className="w-6/12 bg-neutral-600 focus:outline-none focus:ring focus:ring-slate-50 mx-8 placeholder:text-stone-50 h-8 rounded-md my-4 p-4 focus:scale-105 focus:transition-all"
           type="text"
           value={text}
           onChange={handleInputChange}
           placeholder="Enter a Task"
-        />{" "}
+        />
+        <br />
         <button className="button" onClick={handleAddTask}>
-          {" "}
-          Add Task{" "}
+          Add Task
         </button>
       </form>
       <TaskList />
