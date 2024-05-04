@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button {
+    @apply border-2 border-stone-50 rounded-md px-2 py-1 hover:bg-stone-50 hover:text-stone-900 transition-all ease-in-out;
+  }
+}

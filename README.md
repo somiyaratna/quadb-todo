@@ -4,7 +4,7 @@
 
 ## To view it locally, follow these steps:
 
-### Copy git clone https://github.com/somiyaratna/quadb-todo , open a terminal and hit enter
+### Copy , open a terminal and hit enter
 
 ### After the repository has been cloned, make sure to install all the dependencies using npm i
 
