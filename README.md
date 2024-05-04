@@ -1,6 +1,6 @@
 # Welcome to QuadB To-DO
 
-## If you simply want to view the application and use it remotely, visit []
+## If you simply want to view the application and use it remotely, visit [https://srb-quadb-todo.netlify.app/]
 
 ## To view it locally, follow these steps:
 
